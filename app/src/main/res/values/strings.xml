@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InstaClone</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="already_registered">Already Registered ? Sign In</string>
+    <string name="sign_in">Sign In !</string>
+    <string name="Sign_Up_Redirect">You don\'t have Account ? Sign Up Here!</string>
+    <string name="my_profile">My Profile</string>
+    <string name="sign_out_main">Sign Out</string>
+    <string name="save">Save</string>
+    <string name="enter_name">Enter Your Name</string>
+    <string name="enter_caption">Enter Caption Here .....</string>
+    <string name="add_caption">"Add Caption "</string>
+    <string name="enter_comments">"Enter Your Comment Here "</string>
+    <string name="add_comments">Add Comment</string>
+</resources>
